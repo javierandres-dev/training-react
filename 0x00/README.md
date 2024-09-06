@@ -1,5 +1,5 @@
 # 0x00
-[Quick Start](https://react.dev/learn)
+[Quick Start](https://react.dev/learn) v18.3.1
 - How to create and nest components
 - How to add markup and styles
 - How to display data
